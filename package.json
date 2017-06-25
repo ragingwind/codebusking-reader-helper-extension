@@ -1,0 +1,21 @@
+{
+  "name": "codebusking-readers-helper",
+  "version": "0.0.0",
+  "description": "CODEBUSKING Readers Helper on the Medium",
+  "license": "MIT",
+  "repository": "ragingwind/codebusking-readers-helper",
+  "author": {
+    "name": "ragingwind",
+    "email": "ragingwind@gmail.com",
+    "url": "ragingwind.me"
+  },
+  "files": [
+    "src"
+  ],
+  "keywords": [
+    "chrome",
+    "extension",
+    "chrome extension",
+    "codebusking"
+  ]
+}
